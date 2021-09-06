@@ -5,10 +5,9 @@
 
 
 ## 📝 About Me
-- 🔭 I studied at **Sebelas Maret University**
-- 🌱 I’m currently learning **SwiftUI**
-- 💻 I've developed many **web & mobile apps**
-- 📫 Please email via **gerryfadlurahman@student.uns.ac.id to reach me**
+- 🔭  I studied at **Sebelas Maret University**
+- 🌱  I’m currently learning **SwiftUI**
+- 📫  Please email via **gerryfadlurahman@student.uns.ac.id to reach me**
 
 
 ## 🚀 Skills, Languages, and Technologies
