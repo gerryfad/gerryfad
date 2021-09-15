@@ -1,9 +1,5 @@
 # Hi there, Gerry Here 👋
 
-![Profile views](https://gpvc.arturio.dev/gerryfad) 
-
-
-
 ## 📝 About Me
 - 🔭   I studied at **Sebelas Maret University**
 - 🌱   I’m currently learning Swift and SwiftUI
